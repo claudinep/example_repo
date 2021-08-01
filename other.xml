@@ -1,0 +1,25 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PROJETS/CONSULTANTdelais/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PROJETS/FACTURE3.8/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PROJETS/ONLINE/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/PROJETS/ONLINE_247/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PROJETS/ZOHOINVOICE/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/PROJETS/portefeuillesFromFILEMAKER/venv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/PROJETS/ONLINE/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/PROJETS/ONLINE/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/PROJETS/portefeuillesFromFILEMAKER/venv/bin/python" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
